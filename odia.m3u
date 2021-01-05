@@ -1,80 +1,82 @@
+
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://jiotvplus.indtv.me/jiotvplus/News18_Odia_NW18.mpd
-#EXTINF:-1 tvg-id="1510" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Odia_NW18.png" group-title="Odia",News18 Odia.
+#EXTINF:-1 tvg-id="1510" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Odia_NW18.png" group-title="Odia PRASAD",News18 Odia.
 http://jiotvplus.indtv.me/jiotvplus/News18_Odia_NW18.mpd|user-agent="KAIOS"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.me/tatasky/27546510.mpd
-#EXTINF:-1 tvg-id="tatasky_41" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13243-jbirprzs-v1/imageContent-13243-jbirprzs-m1.png" group-title="Odia",News18 Odia
+#EXTINF:-1 tvg-id="tatasky_41" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13243-jbirprzs-v1/imageContent-13243-jbirprzs-m1.png" group-title="Odia PRASAD",News18 Odia
 http://tataskytv.indtv.me/tatasky/27546510.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.me/tatasky/27637367.mpd
-#EXTINF:-1 tvg-id="tatasky_333" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11366-j9jpvkw0-v1/imageContent-11366-j9jpvkw0-m1.png" group-title="Odia",DD Odia
+#EXTINF:-1 tvg-id="tatasky_333" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11366-j9jpvkw0-v1/imageContent-11366-j9jpvkw0-m1.png" group-title="Odia PRASAD",DD Odia
 http://tataskytv.indtv.me/tatasky/27637367.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://airteltv.indtv.me/airtel/news18odia.mpd
-#EXTINF:-1 tvg-id="MWTV_LIVETVCHANNEL_10000000030850000" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_10000000030850000/ic_logo_News18_odia_1.png" group-title="Odia",News18 Odia
+#EXTINF:-1 tvg-id="MWTV_LIVETVCHANNEL_10000000030850000" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_10000000030850000/ic_logo_News18_odia_1.png" group-title="Odia PRASAD",News18 Odia
 http://airteltv.indtv.me/airtel/news18odia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://airteltv.indtv.me/airtel/colorsodia.mpd
-#EXTINF:-1 tvg-id="MWTV_LIVETVCHANNEL_10000000000430000" tvg-logo="https://image.airtel.tv/null/MWTV_LIVETVCHANNEL_10000000000430000/PORTRAIT/uqj5eOJK.png" group-title="Odia",Colors Odia
+#EXTINF:-1 tvg-id="MWTV_LIVETVCHANNEL_10000000000430000" tvg-logo="https://image.airtel.tv/null/MWTV_LIVETVCHANNEL_10000000000430000/PORTRAIT/uqj5eOJK.png" group-title="Odia PRASAD",Colors Odia
 http://airteltv.indtv.me/airtel/colorsodia.mpd
 
-#EXTINF:-1 tvg-id="595" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prathana_TV.png" group-title="Odia",Prathana TV
+#EXTINF:-1 tvg-id="595" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prathana_TV.png" group-title="Odia PRASAD",Prathana TV
 http://indtv.me/jiotvc/Prathana_TV.m3u8
 
-#EXTINF:-1 tvg-id="751" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tarang_Music.png" group-title="Odia",Tarang Music
+#EXTINF:-1 tvg-id="751" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tarang_Music.png" group-title="Odia PRASAD",Tarang Music
 http://indtv.me/jiotvc/Tarang_Music.m3u8
 
-#EXTINF:-1 tvg-id="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia",Zee Odisha
+#EXTINF:-1 tvg-id="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Odia PRASAD",Zee Odisha
 http://indtv.me/jiotvc/Sarthak_TV.m3u8
 
-#EXTINF:-1 tvg-id="198" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Colors_Oriya&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Odia",Colors Oriya
+#EXTINF:-1 tvg-id="198" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Colors_Oriya&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Odia PRASAD",Colors Oriya
 http://indtv.me/jiotvc/Colors_Oriya.m3u8
 
-#EXTINF:-1 tvg-id="702" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="Odia",DD Oriya
+#EXTINF:-1 tvg-id="702" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="Odia PRASAD",DD Oriya
 http://indtv.me/jiotvc/DD_Oriya.m3u8
 
-#EXTINF:-1 tvg-id="703" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tarang_TV.png" group-title="Odia",Tarang TV
+#EXTINF:-1 tvg-id="703" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tarang_TV.png" group-title="Odia PRASAD",Tarang TV
 http://indtv.me/jiotvc/Tarang_TV.m3u8
 
-#EXTINF:-1 tvg-id="704" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=OTV_Odisha_TV&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/OTV_Odisha_TV.png" group-title="Odia",OTV (Odisha TV)
+#EXTINF:-1 tvg-id="704" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=OTV_Odisha_TV&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/OTV_Odisha_TV.png" group-title="Odia PRASAD",OTV (Odisha TV)
 http://indtv.me/jiotvc/OTV_Odisha_TV.m3u8
 
-#EXTINF:-1 tvg-id="686" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Alankar_TV.png" group-title="Odia",Alankar TV
+#EXTINF:-1 tvg-id="686" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Alankar_TV.png" group-title="Odia PRASAD",Alankar TV
 http://indtv.me/jiotvc/Alankar_TV.m3u8
 
-#EXTINF:-1 tvg-id="718" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Kanak_TV&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia",Kanak News
+#EXTINF:-1 tvg-id="718" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Kanak_TV&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Odia PRASAD",Kanak News
 http://indtv.me/jiotvc/Kanak_TV.m3u8
 
-#EXTINF:-1 tvg-id="724" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="Odia",Zee Kalinga
+#EXTINF:-1 tvg-id="724" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="Odia PRASAD",Zee Kalinga
 http://indtv.me/jiotvc/Zee_Kalinga.m3u8
 
-#EXTINF:-1 tvg-id="779" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Prameya_News_7&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" group-title="Odia",Prameya News 7
+#EXTINF:-1 tvg-id="779" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Prameya_News_7&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" group-title="Odia PRASAD",Prameya News 7
 http://indtv.me/jiotvc/Prameya_News_7.m3u8
 
-#EXTINF:-1 tvg-id="696" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=ETV_News_Oriya&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="Odia",News18 Oriya
+#EXTINF:-1 tvg-id="696" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=ETV_News_Oriya&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="Odia PRASAD",News18 Oriya
 http://indtv.me/jiotvc/ETV_News_Oriya.m3u8
 
-#EXTINF:-1 tvg-id="781" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Kalinga_TV&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="Odia",Kalinga TV
+#EXTINF:-1 tvg-id="781" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Kalinga_TV&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="Odia PRASAD",Kalinga TV
 http://indtv.me/jiotvc/Kalinga_TV.m3u8
 
-#EXTINF:-1 tvg-id="631" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=MBC&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="Odia",MBC
+#EXTINF:-1 tvg-id="631" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=MBC&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="Odia PRASAD",MBC
 http://indtv.me/jiotvc/MBC.m3u8
 
-#EXTINF:-1 tvg-id="799" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Naxatra_News&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="Odia",Naxatra News
+#EXTINF:-1 tvg-id="799" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Naxatra_News&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="Odia PRASAD",Naxatra News
 http://indtv.me/jiotvc/Naxatra_News.m3u8
 
-#EXTINF:-1 tvg-id="1299" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Manjari_TV&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manjari_TV.png" group-title="Odia",Manjari TV
+#EXTINF:-1 tvg-id="1299" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Manjari_TV&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manjari_TV.png" group-title="Odia PRASAD",Manjari TV
 http://indtv.me/jiotvc/Manjari_TV.m3u8
 
-#EXTINF:-1 tvg-id="1427" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Nandighosha&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="Odia",Nandighosha
+#EXTINF:-1 tvg-id="1427" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Nandighosha&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="Odia PRASAD",Nandighosha
 http://indtv.me/jiotvc/Nandighosha.m3u8
 
-#EXTINF:-1 tvg-id="1481" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Argus_TV&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" group-title="Odia",Argus News
+#EXTINF:-1 tvg-id="1481" catchup="default" catchup-source="http://indtv.me/catchup/index.php?c=Argus_TV&t=${start}" catchup-days=7 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" group-title="Odia PRASAD",Argus News
 http://indtv.me/jiotvc/Argus_TV.m3u8
 
 
