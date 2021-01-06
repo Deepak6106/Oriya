@@ -1,4 +1,368 @@
+#EXTINF
 
+#EXTINF:1 tvg-id="1239" tvg-name="Jio Football Bengali HD" group-title="Sports  JioTV+  Bengali" tvg-chno="28" tvg-logo="https://assets.botallen.live/images/j/PHmVzBdCgn.png",Jio Football Bengali HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Jio_Football_Bangali_HD_BTS?signature=e2033f3eb015b32176945d7777075bbe7896aa21&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Jio_Football_Bangali_HD_BTS/master.mpd?signature=7c2f47e3af02e59b121d023b56e019835693ade7&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:2 tvg-id="1299" tvg-name="Manjari TV" group-title="Odia  JioTV  Entertainment" tvg-chno="67" tvg-logo="https://assets.botallen.live/images/j/kKVOglGjDp.png",Manjari TV
+https://botallen.live/j/Manjari_TV/master.m3u8?signature=7d9131f1465cba455181b4ea368c952afd88631a&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:3 tvg-id="1293" tvg-name="Lokshahi News" group-title="News  JioTV  Marathi" tvg-chno="115" tvg-logo="https://assets.botallen.live/images/j/btALlkxQFx.png",Lokshahi News
+https://botallen.live/j/Lokshahi_News/master.m3u8?signature=f1bb75bd4b322a520f7d436582a32af7879ffa8c&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:4 tvg-id="1342" tvg-name="Nick Marathi" group-title="Kids  JioTV  Marathi" tvg-chno="147" tvg-logo="https://assets.botallen.live/images/j/RxDWXjMeIO.png",Nick Marathi
+https://botallen.live/j/Nick_Marathi/master.m3u8?signature=96c4cc8b25bc52daa77fa991eb18ccecb5e3dc1a&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:5 tvg-id="1341" tvg-name="Nick Bangla" group-title="Kids  JioTV  Bengali" tvg-chno="149" tvg-logo="https://assets.botallen.live/images/j/tovTsbRTCm.png",Nick Bangla
+https://botallen.live/j/Nick_Bangla/master.m3u8?signature=b24a4be9ab2996321dcb854347cdf68f60080f98&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:6 tvg-id="1345" tvg-name="Sonic Bangla" group-title="Kids  JioTV  Bengali" tvg-chno="167" tvg-logo="https://assets.botallen.live/images/j/fDgJTXgWVP.png",Sonic Bangla
+https://botallen.live/j/Sonic_Bangla/master.m3u8?signature=1286f7c8f79980c44d6fbf350e8fed3e1f2136fb&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:7 tvg-id="1346" tvg-name="Sonic Marathi" group-title="Kids  JioTV  Marathi" tvg-chno="169" tvg-logo="https://assets.botallen.live/images/j/SIWKhJHwzf.png",Sonic Marathi
+https://botallen.live/j/Sonic_Marathi/master.m3u8?signature=5642032bd0767b87bb05d3204cd6b47b429d0781&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:8 tvg-id="1285" tvg-name="Orange TV" group-title="JioTV  Music  Bengali" tvg-chno="242" tvg-logo="https://assets.botallen.live/images/j/ZNbBnbSmPp.png",Orange TV
+https://botallen.live/j/Orange_TV/master.m3u8?signature=2b7cc7d23600148b59edefdb7f4c3b30312e1c41&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:9 tvg-id="1427" tvg-name="Nandighosha" group-title="News  Odia  JioTV" tvg-chno="251" tvg-logo="https://assets.botallen.live/images/j/XzHIZEdvFE.png",Nandighosha
+https://botallen.live/j/Nandighosha/master.m3u8?signature=d129444e6c6b408b06868435a4ff7e30f5980a41&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:10 tvg-id="232" tvg-name="IBN Lokmat" group-title="News  JioTV+  Marathi" tvg-chno="285" tvg-logo="https://assets.botallen.live/images/j/hLVdqADeLW.png",IBN Lokmat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/IBN_Lokmat_BTS?signature=7c738d73c88967d9a8eedb76520d0577ca02adfd&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/IBN_Lokmat_BTS/master.mpd?signature=f396894ca8b7cdf0098f417d21e725429daf5560&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:11 tvg-id="755" tvg-name="Colors Marathi HD" group-title="JioTV+  Marathi  Entertainment" tvg-chno="324" tvg-logo="https://assets.botallen.live/images/j/kzHmmHMGNP.png",Colors Marathi HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Colors_Marathi_HD_BTS?signature=332e9993bea880be4c9a188e42754dddaea162c8&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Colors_Marathi_HD_BTS/master.mpd?signature=6c0abe77a57bf555d1bdce3ac72271766c8bfe4e&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:12 tvg-id="445" tvg-name="Zee Marathi" group-title="JioTV  Marathi  Entertainment" tvg-chno="326" tvg-logo="https://assets.botallen.live/images/j/QLIdwyvPfY.png",Zee Marathi
+https://botallen.live/j/Zee_Marathi/master.m3u8?signature=e354709719f1d3c9dc0ef0e4096e21b092cc5121&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:13 tvg-id="612" tvg-name="ABP Majha" group-title="News  JioTV+  Marathi" tvg-chno="327" tvg-logo="https://assets.botallen.live/images/j/eGAZHQmnRj.png",ABP Majha
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/ABP_Majha_BTS?signature=1c5e2f3f0437791504583a94a6146d0655824465&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/ABP_Majha_BTS/master.mpd?signature=73bd31c624a27c2464057b3ab96c351ace292953&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:14 tvg-id="442" tvg-name="Zee 24 Taas" group-title="News  JioTV  Marathi" tvg-chno="328" tvg-logo="https://assets.botallen.live/images/j/XVYHuRiwau.png",Zee 24 Taas
+https://botallen.live/j/Zee_24_Taas/master.m3u8?signature=a32d17bf28d562cb834e083b3d5ac67a317753ba&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:15 tvg-id="414" tvg-name="Zee Yuva" group-title="JioTV  Marathi  Entertainment" tvg-chno="329" tvg-logo="https://assets.botallen.live/images/j/oTonZLkWej.png",Zee Yuva
+https://botallen.live/j/Zee_Yuva/master.m3u8?signature=284a5786da3f39275ec92f2484fe1f9916b1e8f6&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:16 tvg-id="153" tvg-name="Zee Talkies" group-title="Movies  Marathi  JioTV" tvg-chno="330" tvg-logo="https://assets.botallen.live/images/j/YkLuocnzdw.png",Zee Talkies
+https://botallen.live/j/Zee_Talkies/master.m3u8?signature=704683f1282bf9b33c637a8c85d95b48a53f925e&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:17 tvg-id="1146" tvg-name="Sony Marathi SD" group-title="JioTV  Marathi  Entertainment" tvg-chno="331" tvg-logo="https://assets.botallen.live/images/j/YhtZICagBx.png",Sony Marathi SD
+https://botallen.live/j/Sony_Marathi_SD/master.m3u8?signature=ed28c3d8d191e29f429f8b54701f52d05aabc83a&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:18 tvg-id="691" tvg-name="Saam Tv" group-title="JioTV+  Marathi  Entertainment" tvg-chno="332" tvg-logo="https://assets.botallen.live/images/j/BchEpKMkAV.png",Saam Tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Saam_Tv_BTS?signature=295f12c7c65bb93fede9556d469bbdbf7eef6ff3&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Saam_Tv_BTS/master.mpd?signature=2b0bb119f08f9c21a2489787137607ee9458cce7&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:19 tvg-id="736" tvg-name="Maiboli" group-title="JioTV  Marathi  Entertainment" tvg-chno="333" tvg-logo="https://assets.botallen.live/images/j/riDBMWwNsD.png",Maiboli
+https://botallen.live/j/Maiboli/master.m3u8?signature=62efe042c3ceb657ed850b86c796c7a022824320&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:20 tvg-id="617" tvg-name="TV9 Maharashtra" group-title="News  JioTV+  Marathi" tvg-chno="334" tvg-logo="https://assets.botallen.live/images/j/RxvYFliWkm.png",TV9 Maharashtra
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/TV9_Maharashtra_BTS?signature=899f0764030915d26188842e9f93d6b06636492a&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/TV9_Maharashtra_BTS/master.mpd?signature=fca842cce87a8e59d1bfbe95ce7fc37f575f81bd&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:21 tvg-id="441" tvg-name="9x Jhakaas" group-title="JioTV+  Marathi  Music" tvg-chno="335" tvg-logo="https://assets.botallen.live/images/j/GmtRsufgvJ.png",9x Jhakaas
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/9x_Jhakaas_BTS?signature=fe3fd5f9b67995200561640637dc4cbfd08a5436&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/9x_Jhakaas_BTS/master.mpd?signature=98fefca0b3617ff6f8d26bc663be658b5d408da6&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:22 tvg-id="735" tvg-name="Sangeet Marathi" group-title="JioTV+  Marathi  Music" tvg-chno="336" tvg-logo="https://assets.botallen.live/images/j/fnaNtviHdm.png",Sangeet Marathi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Sangeet_Marathi_BTS?signature=986a64a7dc9cdf44a9eebfbda2b6c01015904cb8&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Sangeet_Marathi_BTS/master.mpd?signature=258af924dbaf367779f38c6c8a17d43d359eb995&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:23 tvg-id="738" tvg-name="Fakt Marathi" group-title="JioTV+  Movies  Marathi" tvg-chno="337" tvg-logo="https://assets.botallen.live/images/j/bTYRaZmmhF.png",Fakt Marathi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Fakt_Marathi_BTS?signature=9d29050bf65eb5b8266cd1de491e8c9cc199274c&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Fakt_Marathi_BTS/master.mpd?signature=de9018f638cb423bd1c47eb0f89699de5381c61f&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:24 tvg-id="1101" tvg-name="Amaar Cinema" group-title="JioTV+  Movies  Bengali" tvg-chno="338" tvg-logo="https://assets.botallen.live/images/j/JuKGSJMzMV.png",Amaar Cinema
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Amaar_Cinema_BTS?signature=0a8d27697f6a761a096a88c79a7ed453324c43d4&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Amaar_Cinema_BTS/master.mpd?signature=bb4f1eaa22d8852b5b32985f160144854b985656&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:25 tvg-id="846" tvg-name="MKN" group-title="News  JioTV  Marathi" tvg-chno="339" tvg-logo="https://assets.botallen.live/images/j/kfHqiGXHqL.png",MKN
+https://botallen.live/j/MK_News/master.m3u8?signature=5046e353be74689352ef97e023783a304afe2273&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:26 tvg-id="1149" tvg-name="Sadhna News TV" group-title="News  JioTV  Bengali" tvg-chno="340" tvg-logo="https://assets.botallen.live/images/j/BervQvVXSH.png",Sadhna News TV
+https://botallen.live/j/Sadhna_Aryan_News/master.m3u8?signature=0d38a932d31c0149fef3e5df644773868ee87c91&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:27 tvg-id="573" tvg-name="Discovery Channel Bengali" group-title="JioTV  Infotainment  Bengali" tvg-chno="341" tvg-logo="https://assets.botallen.live/images/j/xPzGvCcGYv.png",Discovery Channel Bengali
+https://botallen.live/j/Discovery_Channel_Bengali/master.m3u8?signature=5f68f015a4682fb170359bd8aa3053539ab7c389&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:28 tvg-id="756" tvg-name="Colors Bengali HD" group-title="JioTV+  Bengali  Entertainment" tvg-chno="342" tvg-logo="https://assets.botallen.live/images/j/yBDzOqVZNJ.png",Colors Bengali HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Colors_Bengali_HD_BTS?signature=0d894460ed5c577021a1cfaa66bb58c4bd20a88c&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Colors_Bengali_HD_BTS/master.mpd?signature=4dec666a465314bb3e2b3de270d674a4c5f99331&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:29 tvg-id="695" tvg-name="DD Sahayadri" group-title="JioTV+  Marathi  Entertainment" tvg-chno="343" tvg-logo="https://assets.botallen.live/images/j/udYEUSdwWP.png",DD Sahayadri
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_Sahayadri_BTS?signature=a4051e5c42e2cac14bf3d7ae63a940a69ac57b3f&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/DD_Sahayadri_BTS/master.mpd?signature=83efd1eed7d8f835e070212718e2326a8a415c95&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:30 tvg-id="625" tvg-name="Zee Bangla" group-title="JioTV  Bengali  Entertainment" tvg-chno="344" tvg-logo="https://assets.botallen.live/images/j/uTYXbMvAqL.png",Zee Bangla
+https://botallen.live/j/Zee_Bangla/master.m3u8?signature=49ec5607e46f4d6562475d88c367e7080767add8&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:31 tvg-id="672" tvg-name="ABP Ananda" group-title="News  JioTV+  Bengali" tvg-chno="345" tvg-logo="https://assets.botallen.live/images/j/szvXPtixOX.png",ABP Ananda
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/ABP_Ananda_BTS?signature=3a4a7254492ef13584d6f1722450719713f625fb&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/ABP_Ananda_BTS/master.mpd?signature=094ba53ebd9009c8408a7581b4cc0261a9f9db30&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:32 tvg-id="464" tvg-name="24 Ghanta TV" group-title="News  JioTV  Bengali" tvg-chno="346" tvg-logo="https://assets.botallen.live/images/j/DtCvtdaITx.png",24 Ghanta TV
+https://botallen.live/j/24_Ghanta_TV/master.m3u8?signature=87a848e5f7396ba431278efa739b37ac125975c9&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:33 tvg-id="697" tvg-name="Sony aath" group-title="JioTV  Bengali  Entertainment" tvg-chno="347" tvg-logo="https://assets.botallen.live/images/j/iQDgyjGqoU.png",Sony aath
+https://botallen.live/j/Sony_aath/master.m3u8?signature=898e0d9d9ff1895ddbd68d0089d200058104b3fd&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:34 tvg-id="698" tvg-name="Aakash Aath" group-title="JioTV+  Bengali  Entertainment" tvg-chno="348" tvg-logo="https://assets.botallen.live/images/j/ATnuDmVDGf.png",Aakash Aath
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Aakaash_bangla_BTS?signature=3d5cc5760c0cfd957e2481570facc887ae3c8566&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Aakaash_bangla_BTS/master.mpd?signature=525f81e9fa372c7d819c5cdbcd6e0aae5136755a&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:35 tvg-id="685" tvg-name="Zee Bangla Cinema" group-title="Movies  JioTV  Bengali" tvg-chno="349" tvg-logo="https://assets.botallen.live/images/j/bWrqqoovVv.png",Zee Bangla Cinema
+https://botallen.live/j/Zee_Bangla_Cinema/master.m3u8?signature=b171fab0a80c8a91a5f782e0cc3f4cb96e211204&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:36 tvg-id="740" tvg-name="Sangeet Bangla" group-title="JioTV+  Music  Bengali" tvg-chno="350" tvg-logo="https://assets.botallen.live/images/j/OaBuMOLIqH.png",Sangeet Bangla
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Sangeet_Bangla_BTS?signature=b2a8be972d65a1447bb7b9921d1fcf9ded9bbe06&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Sangeet_Bangla_BTS/master.mpd?signature=cf6bfcf60e90d66b592488e49c378971f68745c4&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:37 tvg-id="717" tvg-name="News18 Bangla News" group-title="News  JioTV+  Bengali" tvg-chno="351" tvg-logo="https://assets.botallen.live/images/j/pccwRFWnpO.png",News18 Bangla News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/ETV_Bangla_News_BTS?signature=9000b16e1d7f1c114f2945dd6f531d5441b45812&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/ETV_Bangla_News_BTS/master.mpd?signature=7fa135d96e52a324bd5257154b050d934d00f535&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:38 tvg-id="687" tvg-name="News Time TV" group-title="News  JioTV+  Bengali" tvg-chno="352" tvg-logo="https://assets.botallen.live/images/j/tszXRYknYR.png",News Time TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/News_Time_TV_BTS?signature=b21983515be320d26e17e0a796440c22bbbe4bad&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/News_Time_TV_BTS/master.mpd?signature=84d6ae0ff27309ee8f5ebedc4788734450cfdadf&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:39 tvg-id="198" tvg-name="Colors Oriya" group-title="JioTV+  Odia  Entertainment" tvg-chno="447" tvg-logo="https://assets.botallen.live/images/j/dBrjuKsBit.png",Colors Oriya
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Colors_Oriya_BTS?signature=bdc5066c30d5ac18a017880a342b4575311858f1&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Colors_Oriya_BTS/master.mpd?signature=6e02b7df37464a5f2186f0ee7c82c63a0429f524&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:40 tvg-id="703" tvg-name="Tarang TV" group-title="Odia  JioTV  Entertainment" tvg-chno="449" tvg-logo="https://assets.botallen.live/images/j/AMiTfNKJPR.png",Tarang TV
+https://botallen.live/j/Tarang_TV/master.m3u8?signature=387ad926c73a32536e38436a11674b9618c6b05c&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:41 tvg-id="751" tvg-name="Tarang Music" group-title="Odia  Music  JioTV" tvg-chno="450" tvg-logo="https://assets.botallen.live/images/j/LhYMOYNJhf.png",Tarang Music
+https://botallen.live/j/Tarang_Music/master.m3u8?signature=e0b77280dbf915850ab10599c9e361c30ed0f057&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:42 tvg-id="704" tvg-name="OTV (Odisha TV)" group-title="JioTV+  Odia  Entertainment" tvg-chno="451" tvg-logo="https://assets.botallen.live/images/j/tIJpJErOPI.png",OTV (Odisha TV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/OTV_Odisha_TV_BTS?signature=d476593a07a8ddc3775a573c94b79402bbff4b59&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/OTV_Odisha_TV_BTS/master.mpd?signature=27846a5ffc303b598ff2b333e223274dc0e99b0f&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:43 tvg-id="722" tvg-name="Zee Odisha" group-title="Odia  JioTV  Entertainment" tvg-chno="452" tvg-logo="https://assets.botallen.live/images/j/OIaXXvHeWv.png",Zee Odisha
+https://botallen.live/j/Sarthak_TV/master.m3u8?signature=be9edca97324df7a0b636c3cf74eb47a7055b0a6&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:44 tvg-id="724" tvg-name="Zee Kalinga" group-title="News  Odia  JioTV" tvg-chno="453" tvg-logo="https://assets.botallen.live/images/j/zvStQDUKlx.png",Zee Kalinga
+https://botallen.live/j/Zee_Kalinga/master.m3u8?signature=43228aee8872af7d7791dcee73324446f3a9f373&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:45 tvg-id="718" tvg-name="Kanak News" group-title="News  JioTV+  Odia" tvg-chno="454" tvg-logo="https://assets.botallen.live/images/j/OFpzPwzadU.png",Kanak News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Kanak_TV_BTS?signature=0f04d7d8fe02a5541efc3a835975cb48c62dd334&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Kanak_TV_BTS/master.mpd?signature=059b64f8e6d8c6a24c4f17807d4d104546efde3d&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:46 tvg-id="779" tvg-name="Prameya News 7" group-title="News  JioTV+  Odia" tvg-chno="455" tvg-logo="https://assets.botallen.live/images/j/AOXJWUvJUg.png",Prameya News 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Prameya_News_7_BTS?signature=9caa814c32c6308d2441bda36e123c495b3e38ca&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Prameya_News_7_BTS/master.mpd?signature=f5ff79d7f7830aaae696ea6e255f153766cd0463&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:47 tvg-id="781" tvg-name="Kalinga TV" group-title="News  JioTV+  Odia" tvg-chno="456" tvg-logo="https://assets.botallen.live/images/j/SkSGrhpbKb.png",Kalinga TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Kalinga_TV_BTS?signature=37e54c628fa83cd48efd7c9c1b0f13af0483c46e&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Kalinga_TV_BTS/master.mpd?signature=6d703dc8d267072bfc5d2808637d17696c461e8a&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:48 tvg-id="696" tvg-name="News18 Oriya" group-title="News  JioTV+  Odia" tvg-chno="458" tvg-logo="https://assets.botallen.live/images/j/bYfartGZyg.png",News18 Oriya
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/ETV_News_Oriya_BTS?signature=c184bc68a5d10d9614d976e12944632b354b4f93&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/ETV_News_Oriya_BTS/master.mpd?signature=dde0a22d7921bddc13b017bd89825fad65315164&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:49 tvg-id="686" tvg-name="Alankar TV" group-title="Odia  JioTV+  Movies" tvg-chno="459" tvg-logo="https://assets.botallen.live/images/j/DRdhyZUJeH.png",Alankar TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Alankar_TV_BTS?signature=30219bdc9c178892d48d68259617aec58be81c42&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Alankar_TV_BTS/master.mpd?signature=f723b8b4b566c10497a37f925a985794dafcea08&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:50 tvg-id="631" tvg-name="MBC" group-title="News  JioTV+  Odia" tvg-chno="460" tvg-logo="https://assets.botallen.live/images/j/BrPRDVSqGb.png",MBC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/MBC_BTS?signature=40b6b92f6906be2a12b005eda1461ced7e9265eb&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/MBC_BTS/master.mpd?signature=05bf827dc122dba1a1d5eca8aa21c2ca1bbdc951&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:51 tvg-id="799" tvg-name="Naxatra News" group-title="News  Odia  JioTV" tvg-chno="461" tvg-logo="https://assets.botallen.live/images/j/yTRUhoCinc.png",Naxatra News
+https://botallen.live/j/Naxatra_News/master.m3u8?signature=5a36690bc7c0c3bca746578ae7d29281bc3725b1&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:52 tvg-id="702" tvg-name="DD Oriya" group-title="JioTV+  Odia  Entertainment" tvg-chno="462" tvg-logo="https://assets.botallen.live/images/j/jhdOKeqduD.png",DD Oriya
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_Oriya_BTS?signature=59355581c9aaeb6d4495b30b7f3892b28b349556&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/DD_Oriya_BTS/master.mpd?signature=1ef0e803dc165a7788286b3b2cdcb9308667dae1&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:53 tvg-id="1282" tvg-name="Khushboo TV" group-title="Movies  JioTV  Bengali" tvg-chno="500" tvg-logo="https://assets.botallen.live/images/j/ptHKxvMVxQ.png",Khushboo TV
+https://botallen.live/j/Khusboo_TV/master.m3u8?signature=9cf204fc593b1a89597a8fbf81156234c6543ad4&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:54 tvg-id="719" tvg-name="Nepal one" group-title="JioTV+  Nepali  Entertainment" tvg-chno="501" tvg-logo="https://assets.botallen.live/images/j/GngSyNdhBT.png",Nepal one
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Nepal_one_BTS?signature=620e5a2f9201be2db9bb338f48db8c2cea26f9a6&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Nepal_one_BTS/master.mpd?signature=b87a41f1237b2beecaf8419d9eb265f1060d7eae&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:55 tvg-id="1260" tvg-name="Ctvn Akd Plus" group-title="News  JioTV+  Bengali" tvg-chno="514" tvg-logo="https://assets.botallen.live/images/j/AhFuaZgPAm.png",Ctvn Akd Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Ctvn_Akd_Plus_MOB?signature=3362db783d655229feff7f0ae3b7d58bdde186d2&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Ctvn_Akd_Plus_MOB/master.mpd?signature=9222328143aba45a95675e8077fb84b1a03de124&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:56 tvg-id="1264" tvg-name="Kolkata TV" group-title="News  JioTV  Bengali" tvg-chno="517" tvg-logo="https://assets.botallen.live/images/j/sMxuOCURSL.png",Kolkata TV
+https://botallen.live/j/Kolkata_TV/master.m3u8?signature=0ed4b5230c886013efedba1ec625a8c485dc6b30&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:57 tvg-id="1261" tvg-name="Calcutta News" group-title="News  JioTV+  Bengali" tvg-chno="518" tvg-logo="https://assets.botallen.live/images/j/bGpQPQPydb.png",Calcutta News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Calcutta_News_MOB?signature=a2ae9e3be9998e7586d85cd85986fa4508835b77&unique=6d6288c6053144e92c709bbbb33cfb78
+https://botallen.live/j/Calcutta_News_MOB/master.mpd?signature=da28dfcfc493586c6ac034f5519cac64eea0721c&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:58 tvg-id="1253" tvg-name="Kolkata Live" group-title="News  JioTV  Bengali" tvg-chno="524" tvg-logo="https://assets.botallen.live/images/j/pvzUibgvYe.png",Kolkata Live
+https://botallen.live/j/Kolkata_Live/master.m3u8?signature=9a657375c76d0e2d294cb095a643d9202ef770b4&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=KAIOS
+
+#EXTINF:59 tvg-id="0-9-zeetalkies" tvg-name="Zee Talkies" group-title="Marathi  Zee5" tvg-chno="536" tvg-logo="https://assets.botallen.live/images/z/xpfPiqgQGU.png",Zee Talkies
+https://botallen.live/z/0-9-zeetalkies/master.m3u8?signature=0ffe4df977f40a629733541de9999e35fba92a7d&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:60 tvg-id="0-9-zeeyuva" tvg-name="Zee Yuva" group-title="Marathi  Zee5" tvg-chno="540" tvg-logo="https://assets.botallen.live/images/z/mKwTxqWVrA.png",Zee Yuva
+https://botallen.live/z/0-9-zeeyuva/master.m3u8?signature=97f07d2a8fb16716dfbaca8765e83a5ae12275c9&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:61 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" group-title="Marathi  Zee5" tvg-chno="543" tvg-logo="https://assets.botallen.live/images/z/eRYosfAqjD.png",Zee Marathi HD
+https://botallen.live/z/0-9-zeemarathi/master.m3u8?signature=0b58d174486f9cb6001ace56a3295412cbdd306a&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:62 tvg-id="0-9-zeebangla" tvg-name="Zee Bangla" group-title="Zee5  Bengali" tvg-chno="558" tvg-logo="https://assets.botallen.live/images/z/ysqlIQSwsV.png",Zee Bangla
+https://botallen.live/z/0-9-zeebangla/master.m3u8?signature=480601ac52c2440c595db7b5630cef591b5239d3&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:63 tvg-id="0-9-zeebanglacinema" tvg-name="Zee Bangla Cinema" group-title="Zee5  Bengali" tvg-chno="561" tvg-logo="https://assets.botallen.live/images/z/jhBMtbYDGP.png",Zee Bangla Cinema
+https://botallen.live/z/0-9-zeebanglacinema/master.m3u8?signature=853bff38a1636cf19cccb7e392126564e4df12ea&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:64 tvg-id="0-9-257" tvg-name="TV9 Marathi" group-title="News  Marathi  FREE News Channels  Zee5" tvg-chno="566" tvg-logo="https://assets.botallen.live/images/z/YhcdPVkTTV.png",TV9 Marathi
+https://botallen.live/z/0-9-257/master.m3u8?signature=5c248537bbd44d02ec7812212a11b1e9ce5f6bce&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:65 tvg-id="0-9-zee24taas" tvg-name="Zee 24 Taas" group-title="News  Marathi  Zee5" tvg-chno="572" tvg-logo="https://assets.botallen.live/images/z/fTpoEyTkkM.png",Zee 24 Taas
+https://botallen.live/z/0-9-zee24taas/master.m3u8?signature=08b871f03db2ebc51502e1faa58405939f8cb2bc&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:66 tvg-id="0-9-271" tvg-name="Sugran TV" group-title="Lifestyle  Marathi  Zee5" tvg-chno="580" tvg-logo="https://assets.botallen.live/images/z/TuhryBCeHq.png",Sugran TV
+https://botallen.live/z/0-9-271/master.m3u8?signature=27e2d2ea3d7eb59c9a4d381321cc8b79f12533d0&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:67 tvg-id="0-9-270" tvg-name="Saam TV" group-title="News  Marathi  FREE News Channels  Zee5" tvg-chno="590" tvg-logo="https://assets.botallen.live/images/z/AeOYqmuNel.png",Saam TV
+https://botallen.live/z/0-9-270/master.m3u8?signature=c84c04d29a202fb0e6c325ffdd3af1eb9f285463&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:68 tvg-id="0-9-ddsahyadri" tvg-name="DD Sahyadri" group-title="Marathi  Zee5" tvg-chno="625" tvg-logo="https://assets.botallen.live/images/z/rhrhEQctNU.png",DD Sahyadri
+https://botallen.live/z/0-9-ddsahyadri/master.m3u8?signature=2fb27ff0f17b06d7d8e8477c5100d73d7b17e82a&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:69 tvg-id="0-9-ddbangla" tvg-name="DD Bangla" group-title="Zee5  Bengali" tvg-chno="642" tvg-logo="https://assets.botallen.live/images/z/LZKEEDKKNu.png",DD Bangla
+https://botallen.live/z/0-9-ddbangla/master.m3u8?signature=5d321d381bf9a7b75ab0220c44d4706e1ca66151&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:70 tvg-id="0-9-134" tvg-name="9X Jhakaas" group-title="Marathi  Music  Zee5" tvg-chno="652" tvg-logo="https://assets.botallen.live/images/z/CWAzeVPTAY.png",9X Jhakaas
+https://botallen.live/z/0-9-134/master.m3u8?signature=be60051c96e20771d2610478acef9fe5065553e6&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:71 tvg-id="0-9-24ghantatv" tvg-name="24 Ghanta" group-title="News  Zee5  Bengali" tvg-chno="654" tvg-logo="https://assets.botallen.live/images/z/seCwJYAShn.png",24 Ghanta
+https://botallen.live/z/0-9-24ghantatv/master.m3u8?signature=e20a5cb78be08a24724ef0a76463812491004076&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=Zee5
+
+#EXTINF:72 tvg-id="SonyMarathi" tvg-name="Sony Marathi" group-title="Marathi  SonyLIV  Drama" tvg-chno="661" tvg-logo="https://assets.botallen.live/images/s/QgdfeCyyld.png",Sony Marathi
+https://botallen.live/s/SonyMarathi/master.m3u8?signature=619f49b9fc835297b505c7d0c75203627d67bcc0&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=SonyLIV
+
+#EXTINF:73 tvg-id="SonyAathSD" tvg-name="Aath" group-title="Bengali  SonyLIV  Drama" tvg-chno="663" tvg-logo="https://assets.botallen.live/images/s/ryFFzKhwWY.png",Aath
+https://botallen.live/s/SonyAathSD/master.m3u8?signature=2fc6d9da2b70b54db1f5c85399d2f670a02a521b&unique=6d6288c6053144e92c709bbbb33cfb78|User-Agent=SonyLIV
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://jiotvplus.indtv.me/jiotvplus/News18_Odia_NW18.mpd
